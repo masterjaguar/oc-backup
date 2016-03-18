@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source sql.pref
+source oc-backup.conf
 
 #Ausgabe der Werte aus sql.pref
 echo "DB_HOST=$DB_HOST"
