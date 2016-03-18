@@ -1,5 +1,5 @@
 DB_HOST=localhost
-DB_DATABASE=owncloud
+DB_NAME=owncloud
 DB_USER=owncloud
 DB_PWD=owncloud
 BACKUP_DIR=/tmp/owncloud/
